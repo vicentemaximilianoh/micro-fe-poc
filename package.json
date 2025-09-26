@@ -1,0 +1,24 @@
+{
+  "name": "micro-fe-poc",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "microfe",
+    "microfronted"
+  ],
+  "homepage": "https://github.com/vicentemaximilianoh/micro-fe-poc#readme",
+  "bugs": {
+    "url": "https://github.com/vicentemaximilianoh/micro-fe-poc/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicentemaximilianoh/micro-fe-poc.git"
+  },
+  "license": "MIT",
+  "author": "Maximiliano Vicente",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
